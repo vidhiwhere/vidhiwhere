@@ -53,10 +53,10 @@ Fun fact:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vidhiwhere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhiwhere&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-omega-seven-83.vercel.app/api?username=vidhiwhere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats-omega-seven-83.vercel.app/api/top-langs/?username=vidhiwhere&layout=compact&theme=tokyonight&hide_border=true" />
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vidhiwhere&theme=tokyonight&hide_border=true)
+![Streak stats](https://streak-stats.demolab.com/?user=vidhiwhere&theme=tokyonight&hide_border=true)
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vidhiwhere&theme=tokyo-night&hide_border=true)
 
@@ -88,7 +88,8 @@ Fun fact:
 <!--
 Setup notes:
 1. Username, LinkedIn, and portfolio links are filled in. Still need: your email (swap YOUR_EMAIL in the Email badge link) and Twitter/X URL (swap YOUR_TWITTER), or delete those two badge lines if you don't want them shown.
-2. github-readme-streak-stats runs on a Heroku instance that can sleep — if the badge fails to load, swap to https://streak-stats.demolab.com as a mirror.
+2. Stats and top-langs cards now point at your self-hosted instance (github-readme-stats-omega-seven-83.vercel.app) instead of the shared public one — this should stop the broken-image issue. If you ever redeploy under a different Vercel project, update this URL to match your new domain.
+3. Streak stats now uses the demolab.com mirror instead of the old Heroku instance, which sleeps/dies often.
 3. The contribution snake needs a one-time GitHub Actions workflow added to a repo named vidhiwhere/vidhiwhere (see link above) — it won't render until that's set up.
 4. Profile view counter (komarev) updates on each profile visit, not commits, so don't expect it to move fast.
 -->
