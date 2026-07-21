@@ -105,20 +105,6 @@ Fun fact:
 
 ![Streak stats](https://streak-stats.demolab.com/?user=vidhiwhere&theme=tokyonight&hide_border=true)
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vidhiwhere&theme=tokyo-night&hide_border=true)
-
-</div>
-
-**Contribution snake** — add this as a GitHub Action ([setup guide](https://github.com/Platane/snk)) so it updates automatically:
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vidhiwhere/vidhiwhere/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vidhiwhere/vidhiwhere/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/vidhiwhere/vidhiwhere/output/github-contribution-grid-snake.svg" />
-</picture>
-
 </div>
 
 ---
@@ -141,7 +127,5 @@ Setup notes:
 1. Username, LinkedIn, and portfolio links are filled in. Still need: your email (swap YOUR_EMAIL in the Email badge link) and Twitter/X URL (swap YOUR_TWITTER), or delete those two badge lines if you don't want them shown.
 2. Stats and top-langs cards now point at your self-hosted instance (github-readme-stats-omega-seven-83.vercel.app) instead of the shared public one — this should stop the broken-image issue. If you ever redeploy under a different Vercel project, update this URL to match your new domain.
 3. Streak stats now uses the demolab.com mirror instead of the old Heroku instance, which sleeps/dies often.
-4. Activity graph is back in — it's on the shared public instance, so it may occasionally break like the stats card did; self-host https://github.com/Ashutosh00710/github-readme-activity-graph the same way if it keeps failing.
-5. The contribution snake now shows a light and dark variant via <picture> tags, matching viewer's OS theme. Needs the snake.yml workflow (provided alongside this README) placed at .github/workflows/snake.yml in your vidhiwhere/vidhiwhere repo — it won't render until that workflow runs once and creates the `output` branch.
-6. Profile view counter (komarev) updates on each profile visit, not commits, so don't expect it to move fast.
+4. Profile view counter (komarev) updates on each profile visit, not commits, so don't expect it to move fast.
 -->
