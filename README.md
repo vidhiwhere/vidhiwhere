@@ -42,12 +42,51 @@ Fun fact:
 ---
 
 ## Tech stack
-
+ 
+**Languages**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,nodejs,express,mongodb,postgres,firebase,git,github,figma,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp&perline=7" />
 </p>
-
+<p align="center"><sub>JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Python · C++</sub></p>
+**AI / ML / Deep Learning**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=7" />
+</p>
+**Frontend**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,redux&perline=7" />
+</p>
+<p align="center"><sub>React Hooks · Redux Toolkit · Context API · Responsive Design</sub></p>
+**Backend**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=7" />
+</p>
+<p align="center"><sub>REST APIs · JWT Authentication</sub></p>
+**Databases**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=7" />
+</p>
+**Version Control & Collaboration**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github&perline=7" />
+</p>
+<p align="center"><sub>Agile / Scrum · Code Reviews</sub></p>
+**UI/UX**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma&perline=7" />
+</p>
+<p align="center"><sub>Component-Driven Design · Framer Motion · Accessibility (a11y) Basics</sub></p>
+**Testing & Tooling**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=jest,vite,webpack&perline=7" />
+</p>
+<p align="center"><sub>React Testing Library</sub></p>
+**Tools**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postman,vscode,vercel,githubactions&perline=7" />
+</p>
 ---
+ 
 
 ## GitHub stats
 
